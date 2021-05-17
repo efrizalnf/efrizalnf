@@ -7,8 +7,8 @@
 <!--     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> -->
  </abc>
 </h2> 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<p align="left"></p>
+<h2 align="center">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<p align="center">
 <a href="https://www.android.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://www.php.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="codeigniter" width="40" height="40"/> </a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
@@ -17,7 +17,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-
+</p>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :dart: Life Hack: "Learn :fire: and Learn :bomb: with power" 
