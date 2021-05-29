@@ -23,7 +23,7 @@
 - :dart: Life Hack: "Learn :fire: and Learn :bomb: with power" 
 
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<h2 align="left">:heart: Contact :</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-efrizalnf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/efrizalnf/)](https://www.linkedin.com/in/efrizalnf) [![Twitter Badge](https://img.shields.io/badge/-@efrizalnf-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zalzondabuzz)](https://twitter.com/zalzondabuzz) [![Facebook Badge](https://img.shields.io/badge/-@efrizalnf-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/efrizalnurulfajri)](https://www.facebook.com/efrizalnurulfajri) [![Instagram Badge](https://img.shields.io/badge/-@efrizalnf-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/efrizalnf/)](https://www.instagram.com/efrizalnf/)
 
