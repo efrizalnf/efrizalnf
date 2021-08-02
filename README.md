@@ -32,7 +32,7 @@
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=efrizalnf&hide=html) -->
 
 <div>
-    <img src="https://raw.githubusercontent.com/efrizalnf/efrizalnf/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/efrizalnf/muhiqsimui/output/github-contribution-grid-snake.svg" />
 </div>
 
 
