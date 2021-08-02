@@ -31,5 +31,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=efrizalnf&&show_icons=true&count_private=true&line_height=40)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=efrizalnf&hide=html) -->
 
+<div>
+    <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" />
+</div>
+
 
 
