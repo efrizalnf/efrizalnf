@@ -21,7 +21,7 @@
 </p>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :dart: Life Hack: "Learn :fire: and Learn :bomb: with power" 
+- :dart: Life Hack: "Learn :fire: and Learn :bomb: " 
 
 
 <h2 align="left">:heart: Contact :</h2>
