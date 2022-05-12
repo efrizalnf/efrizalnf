@@ -32,7 +32,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=efrizalnf&&show_icons=true&count_private=true&line_height=40)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=efrizalnf&hide=html) -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=efrizalnf)](https://github.com/efrizalnf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efrizalnf&layout=compact)](https://github.com/efrizalnf/github-readme-stats)
 
 
 
