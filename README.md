@@ -1,4 +1,4 @@
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/byliuyang/github-stats@0.0.4/src/github-stats.js"></script>
+
 <h2 align="center">
  <abc>
   <br><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
@@ -32,7 +32,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=efrizalnf&&show_icons=true&count_private=true&line_height=40)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=efrizalnf&hide=html) -->
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=efrizalnf)](https://github.com/efrizalnf/github-readme-stats)
 
 
 
