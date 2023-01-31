@@ -1,6 +1,5 @@
 
 <h2 align="center">
- <abc>
   <br><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
   Highly interest in ProblemSolving ⚡
   <br>
@@ -20,7 +19,8 @@
       <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+<h2 align="left">👨🏻‍💻 About Me:</div>
 
 - :dart: Life Hack: "Learn :fire: and Learn :bomb: " 
 
@@ -33,4 +33,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=efrizalnf&&show_icons=true&count_private=true&line_height=40)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=efrizalnf&hide=html) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efrizalnf&layout=compact)](https://github.com/efrizalnf/github-readme-stats)
+<br>
 [![wakatime](https://wakatime.com/badge/user/f28eb40d-f262-4e85-898d-495189970491.svg)](https://wakatime.com/@f28eb40d-f262-4e85-898d-495189970491)
+
