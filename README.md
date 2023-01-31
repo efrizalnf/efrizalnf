@@ -33,7 +33,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=efrizalnf&&show_icons=true&count_private=true&line_height=40)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=efrizalnf&hide=html) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efrizalnf&layout=compact)](https://github.com/efrizalnf/github-readme-stats)
-
-<a href="https://wakatime.com/@f28eb40d-f262-4e85-898d-495189970491"><img src="https://wakatime.com/badge/user/f28eb40d-f262-4e85-898d-495189970491.svg" alt="Total time coded since Jan 31 2023" /></a>
-
-
+[![wakatime](https://wakatime.com/badge/user/f28eb40d-f262-4e85-898d-495189970491.svg)](https://wakatime.com/@f28eb40d-f262-4e85-898d-495189970491)
