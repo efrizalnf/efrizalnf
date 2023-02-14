@@ -32,7 +32,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=efrizalnf&&show_icons=true&count_private=true&line_height=40&show_icons=true&theme=onedark)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=efrizalnf&hide=html) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efrizalnf&layout=compact&show_icons=true&theme=radical)](https://github.com/efrizalnf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efrizalnf&layout=compact&show_icons=true&theme=radical&langs_count=15&hide=C#,C++,C)](https://github.com/efrizalnf/github-readme-stats)
 <br>
 [![wakatime](https://wakatime.com/badge/user/f28eb40d-f262-4e85-898d-495189970491.svg)](https://wakatime.com/@f28eb40d-f262-4e85-898d-495189970491)
 
