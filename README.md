@@ -20,9 +20,14 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<h2 align="left">👨🏻‍💻 About Me:</div>
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <img title="Shows your streak from git.io/streak-stats" alt="Sami's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Samx23&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
 
-- :dart: Life Hack: "Learn :fire: and Learn :bomb: " 
+<!-- <p align="center">
+  <img align="center" src="/github-metrics.svg" alt="Metrics"/>
+</p> -->
 
 
 <h2 align="left">:heart: Contact :</h2>
