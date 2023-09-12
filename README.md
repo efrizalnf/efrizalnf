@@ -22,7 +22,7 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <img title="Shows your streak from git.io/streak-stats" alt="Sami's streak" src="https://github-readme-streak-stats.herokuapp.com?user=efrizalnf&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img title="Shows your streak from git.io/streak-stats" alt="zlz's streak" src="https://github-readme-streak-stats.herokuapp.com?user=efrizalnf&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 <!-- <p align="center">
