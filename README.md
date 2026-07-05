@@ -1,43 +1,99 @@
+<div align="center">
 
-<h2 align="center">
-  <br><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-  Highly interest in ProblemSolving ⚡
-  <br>
-    <br>
-<!--     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> -->
- </abc>
-</h2> 
-<h2 align="center">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<p align="center">
-<a href="https://www.android.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a>
- <a href="https://docs.flutter.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://www.php.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="codeigniter" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Efrizal%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+%26+Web+Craftsman;Problem+Solver+%E2%9A%A1;Always+Learning+New+Tech" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Problem--Solving-⚡%20Highly%20Interested-39FF14?style=for-the-badge&labelColor=0d1117" alt="Problem Solving">
+<img src="https://komarev.com/ghpvc/?username=efrizalnf&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views" />
+
+<p align="center" style="max-width:700px;">
+  ⚡ A passionate <b>Full-Stack Developer</b> crafting efficient mobile and web applications.<br/>
+  Driven by deep analytical thinking, a love for problem-solving, and a constant hunger to explore new tech.
 </p>
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <img title="Shows your streak from git.io/streak-stats" alt="zlz's streak" src="https://github-readme-streak-stats.herokuapp.com?user=efrizalnf&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
+</div>
 
-<!-- <p align="center">
-  <img align="center" src="/github-metrics.svg" alt="Metrics"/>
-</p> -->
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+**Mobile Development**
+<br/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+
+**Backend & Scripting**
+<br/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+**Tools & Workflow**
+<br/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 📊 GitHub Analytics & Activities
+
+<div align="center">
 
 
-<h2 align="left">:heart: Contact :</h2>
+<a href="https://wakatime.com/@f28eb40d-f262-4e85-898d-495189970491">
+  <img src="https://wakatime.com/badge/user/f28eb40d-f262-4e85-898d-495189970491.svg" alt="wakatime" width="49%"/>
+</a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-efrizalnf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/efrizalnf/)](https://www.linkedin.com/in/efrizalnf) [![Twitter Badge](https://img.shields.io/badge/-@efrizalnf-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zalzondabuzz)](https://twitter.com/zalzondabuzz) [![Facebook Badge](https://img.shields.io/badge/-@efrizalnf-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/efrizalnurulfajri)](https://www.facebook.com/efrizalnurulfajri) [![Instagram Badge](https://img.shields.io/badge/-@efrizalnf-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/efrizalnf/)](https://www.instagram.com/efrizalnf/)
+<br/><br/>
 
+<a href="https://commit-history.com/efrizalnf">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/efrizalnf?theme=dark" />
+    <img alt="efrizalnf's commit history" src="https://commit-history.com/embed/efrizalnf" style="max-width: 100%;" />
+  </picture>
+</a>
 
-![](https://github-readme-stats.vercel.app/api?username=efrizalnf&&show_icons=true&count_private=true&line_height=40&show_icons=true&theme=onedark)
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=efrizalnf&hide=html) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efrizalnf&layout=compact&show_icons=true&theme=radical&langs_count=15&hide=C#,C++,C)](https://github.com/efrizalnf/github-readme-stats)
-<br>
-[![wakatime](https://wakatime.com/badge/user/f28eb40d-f262-4e85-898d-495189970491.svg)](https://wakatime.com/@f28eb40d-f262-4e85-898d-495189970491)
+<br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=efrizalnf&theme=react-dark&hide_border=true&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff" width="95%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/efrizalnf" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/zalzondabuzz" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="https://www.instagram.com/efrizalnf/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://www.facebook.com/efrizalnurulfajri" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
